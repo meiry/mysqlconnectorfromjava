@@ -1,0 +1,15 @@
+Eclipse#
+###################
+ 
+*.metadata
+*/bin/*
+*/bin/
+*/tmp/**
+*.tmp
+*.bak
+*.swp
+*~.nib
+*org.eclipse.wst.common.component
+*org.eclipse.wst.common.project.facet.core.xml
+*.orig
+*.classpath
